@@ -1,0 +1,24 @@
+* - Getting the string input from the user -
+    https://www.w3schools.com/c/c_user_input.php
+
+* - Removing the trailing "\n" from gets() input -
+    https://www.geeksforgeeks.org/removing-trailing-newline-character-from-fgets-input/
+
+* - Implementing a function to return a string -
+    https://www.youtube.com/watch?v=033DXBYql8w&ab_channel=PortfolioCourses
+
+* - Clearing the stdin buffer -
+    https://www.youtube.com/watch?v=N7-MueK2CX8&ab_channel=PortfolioCourses
+
+* - NATO phonetic alphabet source -
+    https://www.worldometers.info/languages/nato-phonetic-alphabet/
+
+
+* - Creating a custom library -
+    - https://www.youtube.com/watch?v=x8gsHFBW7zY&ab_channel=PortfolioCourses
+    - https://www.youtube.com/watch?v=pF1_fXz5zN0&ab_channel=PortfolioCourses
+    - https://www.youtube.com/watch?v=yWLkyN_Satk&ab_channel=NeuralNine
+    - Makefile code was adapted from CS50Sx 2023 - Problem set 5 - Speller
+        https://cs50.harvard.edu/x/2023/psets/5/speller/
+
+
